@@ -46,4 +46,3 @@ int main()
     InputGet();
 	return 0;
 }
-
